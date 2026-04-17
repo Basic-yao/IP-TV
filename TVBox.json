@@ -1,5 +1,4 @@
 {
-
   "spider": "https://file.icve.com.cn/file_doc/196/827/313CEE1E4B5C7805DDBFF53DBC9E09B9.txt;md5;313cee1e4b5c7805ddbff53dbc9e09b9",
   "wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",
   "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3CEAE9E_773_wexfnw_20250911190012684newMediaFile.gif",
@@ -14,16 +13,7 @@
       "filterable": 0,
       "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt"
     },
-	{
-      "key": "Doubana",
-      "name": "🐮【更新日期:20260416】🐮",
-      "type": 3,
-      "api": "csp_NewDouBanGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt"
-    },
+
     {
       "key": "Doubana",
       "name": "⬇️【网盘类先扫码】⬇️",
