@@ -44,14 +44,6 @@
       "indexs": 0
     },
     {
-      "key": "二小",
-      "name": "💓‍二小┃4K💓‍",
-      "type": 3,
-      "api": "csp_NewErXiaoGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "Wexerxiaoziyuan",
       "name": "💓‍二小┃4K💓‍",
       "type": 3,
