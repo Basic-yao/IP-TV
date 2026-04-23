@@ -53,6 +53,14 @@
         "type": "list"
       }
     },
+    {
+      "key": "SportKanqiu",
+      "name": "🌐八八┃体育🌐",
+      "type": 3,
+      "api": "csp_SportKanqiuGuard",
+      "searchable": 1,
+      "changeable": 0
+    },
 	{
       "key": "SportKanQiuTong",
       "name": "🌐球通┃体育🌐",
@@ -64,14 +72,6 @@
         "type": "list"
       }
     },	
-    {
-      "key": "SportKanqiu",
-      "name": "🌐八八┃体育🌐",
-      "type": 3,
-      "api": "csp_SportKanqiuGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
     {
       "key": "SportWwe",
       "name": "🌐WWE┃体育🌐",
