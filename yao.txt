@@ -64,29 +64,6 @@
         "type": "list"
       }
     },
-	{
-      "key": "JRS直播",
-      "name": "🌐JRS┃体育🌐",
-      "type": 3,
-      "api": "csp_JrsGuard",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-       }
-      "ext": "https://le-qq.com/"
-    },	
-    {
-      "key": "WWE",
-      "name": "🌐WWE┃体育🌐",
-      "type": 3,
-      "api": "csp_WweGuard",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      }
-    },
     {
       "key": "玩偶",
       "name": "💓‍玩偶┃4K💓‍",
