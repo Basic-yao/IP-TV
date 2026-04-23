@@ -767,7 +767,14 @@
       "searchable": 1,
       "changeable": 0
     }
-{"key":"push_agent","name":"🎾推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":{"commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"}},
+   {
+      "key":"push_agent",
+      "name":"🎾推送",
+      "type":3,
+      "api":"csp_Push",
+      "searchable":0,
+      "quickSearch":0,
+      "ext":{"commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"}},
   ],
   "parses": [
     {
@@ -936,16 +943,12 @@
       ]
     }
   ],
-  "ads": [
-    "mozai.4gtv.tv",
-    "pv.vipwm.cc",
-	"static-mozai.4gtv.tv"
-  ],
+
   "lives": [
     {
         "name": "Kimentanm",
         "type": 0,
-        "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+        "url": "https://raw.kkgithub.com/Basic-yao/IP-TV/refs/heads/main/live.txt",
         "playerType": 2
     },
     {
