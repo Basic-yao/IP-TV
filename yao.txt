@@ -35,6 +35,15 @@
       "indexs": 0
     },
     {
+      "key": "Wexokconfig",
+      "name": "🐮影视专用┃配置中心🐮",
+      "type": 3,
+      "api": "csp_WexokconfigGuard",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0
+    },
+    {
       "key": "Wexerxiaoziyuan",
       "name": "💓‍二小┃4K💓‍",
       "type": 3,
@@ -58,6 +67,28 @@
       "name": "🌐瓜子┃体育🌐",
       "type": 3,
       "api": "csp_WexGZsportGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+	{
+      "key": "看球通",
+      "name": "🌐球通┃体育🌐",
+      "type": 3,
+      "api": "csp_KanQiuTongGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },	
+    {
+      "key": "WWE",
+      "name": "🌐WWE┃体育🌐",
+      "type": 3,
+      "api": "csp_WweGuard",
       "searchable": 1,
       "changeable": 0,
       "style": {
@@ -585,6 +616,28 @@
       "changeable": 0
     },
     {
+      "key": "看球",
+      "name": "🌐88┃体育🌐",
+      "type": 3,
+      "api": "csp_KanqiuGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+	    {
+      "key": "瓜子看球",
+      "name": "🌐瓜子┃体育🌐",
+      "type": 3,
+      "api": "csp_WexGZsportGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
       "key": "WexTJso",
       "name": "🎠TJ┃综合🎠",
       "type": 3,
@@ -921,7 +974,7 @@
     {
         "name": "Kimentanm",
         "type": 0,
-        "url": "https://gh-proxy.org/https://raw.kkgithub.com/Basic-yao/IP-TV/refs/heads/main/live.txt",
+        "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
         "playerType": 2
     },
     {
