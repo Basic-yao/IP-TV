@@ -53,6 +53,14 @@
         "type": "list"
       }
     },
+    {
+      "key": "SportKanqiu",
+      "name": "🌐八八┃体育🌐",
+      "type": 3,
+      "api": "csp_SportKanqiuGuard",
+      "searchable": 1,
+      "changeable": 0
+    },
 	{
       "key": "SportKanQiuTong",
       "name": "🌐球通┃体育🌐",
@@ -64,14 +72,6 @@
         "type": "list"
       }
     },	
-    {
-      "key": "SportKanqiu",
-      "name": "🌐八八┃体育🌐",
-      "type": 3,
-      "api": "csp_SportKanqiuGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
     {
       "key": "SportWwe",
       "name": "🌐WWE┃体育🌐",
@@ -959,30 +959,7 @@
         "m3u8?pt=m3u8"
       ]
     },
-    {
-      "name": "夜市點擊",
-      "hosts": [
-        "yeslivetv.com"
-      ],
-      "script": [
-        "document.getElementsByClassName('vjs-big-play-button')[0].click()"
-      ]
-    },
-    {
-      "name": "毛驢點擊",
-      "hosts": [
-        "www.maolvys.com"
-      ],
-      "script": [
-        "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
-      ]
-    }
-  ],
-  "ads": [
-    "mozai.4gtv.tv",
-    "pv.vipwm.cc",
-	"static-mozai.4gtv.tv"
-  ],
+
   "lives": [
     {
         "name": "Kimentanm",
