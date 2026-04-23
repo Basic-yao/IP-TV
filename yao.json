@@ -1,7 +1,6 @@
 {
-
-   "spider": "https://raw.githubusercontent.com/Basic-yao/IP-TV/refs/heads/main/wex.txt;",
-  "wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",
+  "spider": "https://raw.githubusercontent.com/Basic-yao/IP-TV/refs/heads/main/wex.txt;md5;313cee1e4b5c7805ddbff53dbc9e09b9",
+   "wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",
   "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3CEAE9E_773_wexfnw_20250911190012684newMediaFile.gif",
   "sites": [
       {
@@ -979,7 +978,7 @@
     {
         "name": "Kimentanm",
         "type": 0,
-        "url": "https://raw.githubusercontent.com/Basic-yao/IP-TV/refs/heads/main/live.txt",
+        "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
         "playerType": 2
     },
     {
