@@ -3,11 +3,10 @@
 #港澳台
 
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰资讯.png" group-title="港澳台",凤凰资讯
-https://a3f1b2.kylintv.tv/live/pxinhd_iphone.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰资讯.png" group-title="港澳台",凤凰资讯
 https://fjct-524-eo-d1d3d5.live.tv.darwinchow.com/PLTV/88888888/224/3221226929/1.m3u8?streamid=7fb13f400476e75ce6c34d1f40c28473&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk&streamkey=06Au6xOXDlDEaamrl19APstGISyYIm68vXaUsDTfj2PJHISPTI9afEgCsc20fFRt2pt78mZtGZZz2ww7z2IzpFRCwHjd3X5tUAxD1BUj661gsKsx&token=1777368143-1c951c7c0fbb4b2f-0-04b0397340c37fe51c92c2c1e677e140
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰资讯.png" group-title="港澳台",凤凰资讯
 
-
+https://a3f1b2.kylintv.tv/live/pxinhd_iphone.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰中文台.png" group-title="港澳台",凤凰中文
 http://r.jdshipin.com/cCCzW
 
