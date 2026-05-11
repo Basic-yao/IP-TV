@@ -3,10 +3,9 @@
 #港澳台
 
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰资讯.png" group-title="港澳台",凤凰资讯
-https://live.264788.xyz/channel/fenghuangweishizixun?streamid=7fb13f400476e75ce6c34d1f40c28473&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰资讯.png" group-title="港澳台",凤凰资讯
 https://fjct-524-eo-e1e0d2.live.tv.darwinchow.com/PLTV/88888888/224/3221226929/1.m3u8?streamid=7fb13f400476e75ce6c34d1f40c28473&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk&streamkey=06Au6xOXDlDEabJWSUMPO45DAD7PgnnPTn2VEAQm3yveqXWfSmrMtLzVjLFvWAhlu3FBH8AT1tUkSoxTobES9Th5XtzG3h1J92nhzZrtIUGYOOJ7&token=1778499732-7937ed581eb22049-0-40561bf3d5eaff30c820e01cabe0bf86
-
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰资讯.png" group-title="港澳台",凤凰资讯
+https://live.264788.xyz/channel/fenghuangweishizixun?streamid=7fb13f400476e75ce6c34d1f40c28473&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰中文台.png" group-title="港澳台",凤凰中文
 http://r.jdshipin.com/cCCzW
 
@@ -31,7 +30,7 @@ http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b56237284
 #EXTINF:-1 tvg-name="广州珠江" tvg-logo="https://live.fanmingming.cn/tv/广州珠江.png" group-title="☘️广东频道",广州珠江
 http://198.204.228.26/live/gdzja.m3u8
 #EXTINF:-1 tvg-name="广州体育" tvg-logo="https://live.fanmingming.cn/tv/广州体育.png" group-title="☘️广东频道",广州体育
-http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
+http://111.221.137.234:44330/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="东莞新闻综合" tvg-logo="https://live.fanmingming.cn/tv/东莞新闻综合.png" group-title="☘️广东频道",东莞新闻综合
 https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 
