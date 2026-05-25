@@ -44,6 +44,14 @@
       "indexs": 0
     },
     {
+      "key": "SportKanqiu",
+      "name": "🌐八八┃体育🌐",
+      "type": 3,
+      "api": "csp_SportKanqiuGuard",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
       "key": "SportGuaZi",
       "name": "🌐瓜子┃体育🌐",
       "type": 3,
@@ -53,14 +61,6 @@
       "style": {
         "type": "list"
       }
-    },
-    {
-      "key": "SportKanqiu",
-      "name": "🌐八八┃体育🌐",
-      "type": 3,
-      "api": "csp_SportKanqiuGuard",
-      "searchable": 1,
-      "changeable": 0
     },
 	{
       "key": "SportKanQiuTong",
