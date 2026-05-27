@@ -6,7 +6,7 @@
   "sites": [
       {
       "key": "NewDouBan",
-      "name": "🐮【公众号：王二小放牛娃】🐮",
+      "name": "🐮【王二小放牛娃】🐮",
       "type": 3,
       "api": "csp_NewDouBanGuard",
       "searchable": 0,
@@ -16,7 +16,7 @@
     },
 	{
       "key": "Doubana",
-      "name": "🐮【更新日期:20260505】🐮",
+      "name": "🐮【更新日期:20260526】🐮",
       "type": 3,
       "api": "csp_NewDouBanGuard",
       "searchable": 0,
@@ -43,15 +43,7 @@
       "changeable": 0,
       "indexs": 0
     },
-    {
-      "key": "SportKanqiu",
-      "name": "🌐八八┃体育🌐",
-      "type": 3,
-      "api": "csp_SportKanqiuGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
+	{
       "key": "SportGuaZi",
       "name": "🌐瓜子┃体育🌐",
       "type": 3,
@@ -83,6 +75,14 @@
       "style": {
         "type": "list"
       }
+    },
+    {
+      "key": "SportKanqiu",
+      "name": "🌐八八┃体育🌐",
+      "type": 3,
+      "api": "csp_SportKanqiuGuard",
+      "searchable": 1,
+      "changeable": 0
     },
     {
       "key": "二小",
@@ -399,22 +399,6 @@
       "changeable": 1,
       "timeout": 120
     },
-    {
-      "key": "BookWuWei",
-      "name": "🎃‍无忧┃听书🎃",
-      "type": 3,
-      "api": "csp_BookWuWeiGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "BookTingShu",
-      "name": "🎃‍精品┃听书🎃",
-      "type": 3,
-      "api": "csp_BookTingShuGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
 	{
       "key": "Book23TingShu",
       "name": "🎃‍爱上┃听书🎃",
@@ -663,7 +647,6 @@
         "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/345A587_773_gaozhong_20250828171449997newMediaImage.txt"
       }
     },
-	
     {
       "key": "emby",
       "name": "🀄️emby┃4K🀄️",
