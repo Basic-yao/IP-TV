@@ -2,7 +2,10 @@
 
 #港澳台
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰资讯.png" group-title="港澳台",凤凰资讯
+http://rihou.cc:555/tv/[Pd]凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰资讯.png" group-title="港澳台",凤凰资讯
 http://r.jdshipin.com/0Rp07
+
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰资讯.png" group-title="港澳台",凤凰资讯
 https://fjct-524-cf1.stream.264788.xyz/PLTV/88888888/224/3221226929/1.m3u8?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk&streamkey=06Au6xOXDlDEaauegXxgtRfkyl7p9snlPBSu7eYxEhbAvKrW3hJOpf3PrsZhOauY5wEGkA2fADpgdHvG32J1oW7wGca86MA6bNdSjbMjRdduQ5Kr&token=1779958302-8abb3d1acd0f3a0f-0-53c8b15d681c09e4e975dd9ea5b7af57
 
