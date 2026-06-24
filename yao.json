@@ -1,6 +1,6 @@
 {
 
-  "spider": "https://raw.githubusercontent.com/Basic-yao/TVBox/refs/heads/main/newwex.txt",
+  "spider": "https://raw.githubusercontent.com/Basic-yao/TVBox/refs/heads/main/7bae0e28de9ef4f11206482b70524912.jar;md5;c0b7317763e162949ba0a829c21edb12",
   "wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",
   "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3CEAE9E_773_wexfnw_20250911190012684newMediaFile.gif",
   "sites": [
@@ -16,7 +16,7 @@
     },
 	{
       "key": "Doubana",
-      "name": "🐮【更新日期:20260526】🐮",
+      "name": "🐮【更新日期:20260621】🐮",
       "type": 3,
       "api": "csp_NewDouBanGuard",
       "searchable": 0,
@@ -53,6 +53,17 @@
       "style": {
         "type": "list"
       }
+    },	
+	{
+      "key": "SportFeiQiu",
+      "name": "🌐飞球┃体育🌐",
+      "type": 3,
+      "api": "csp_SportFeiQiuGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
     },
 	{
       "key": "SportKanQiuTong",
@@ -66,6 +77,25 @@
       }
     },	
     {
+      "key": "SportKanqiu",
+      "name": "🌐八八┃体育🌐",
+      "type": 3,
+      "api": "csp_SportKanqiuGuard",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "SportKaFei",
+      "name": "🌐咖啡┃体育🌐",
+      "type": 3,
+      "api": "csp_SportKaFeiGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
       "key": "SportWwe",
       "name": "🌐WWE┃体育🌐",
       "type": 3,
@@ -75,14 +105,6 @@
       "style": {
         "type": "list"
       }
-    },
-    {
-      "key": "SportKanqiu",
-      "name": "🌐八八┃体育🌐",
-      "type": 3,
-      "api": "csp_SportKanqiuGuard",
-      "searchable": 1,
-      "changeable": 0
     },
     {
       "key": "二小",
@@ -134,14 +156,6 @@
       "changeable": 1
     },
     {
-      "key": "NewShaYang",
-      "name": "💓傻样┃4K💓",
-      "type": 3,
-      "api": "csp_NewShaYangGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "NewMuOu",
       "name": "💓木偶┃4K💓",
       "type": 3,
@@ -163,14 +177,6 @@
       "name": "💓‍原盘┃4K💓‍",
       "type": 3,
       "api": "csp_New4KZnGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "雷鲸",
-      "name": "💓‍雷鲸┃4K💓‍",
-      "type": 3,
-      "api": "csp_NewLeiJingGuard",
       "searchable": 1,
       "changeable": 1
     },
@@ -239,6 +245,22 @@
       "changeable": 1
     },
 	{
+      "key": "WexV6DaShiXiong",
+      "name": "💥师兄┃秒播💥",
+      "type": 3,
+      "api": "csp_WexV6DaShiXiongGuard",
+      "searchable": 1,
+      "changeable": 1
+    },
+	{
+      "key": "WexV6TeGou",
+      "name": "💥太狗┃秒播💥",
+      "type": 3,
+      "api": "csp_WexV6TeGouGuard",
+      "searchable": 1,
+      "changeable": 1
+    },
+	{
       "key": "WexYiYs",
       "name": "💥伊影┃秒播💥",
       "type": 3,
@@ -259,14 +281,6 @@
       "name": "🎇伯伯┃秒播🎇",
       "type": 3,
       "api": "csp_WexBoBoGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "WexBtTwo",
-      "name": "🎇鼻涕┃秒播🎇",
-      "type": 3,
-      "api": "csp_WexBtTwoGuard",
       "searchable": 1,
       "changeable": 1
     },
@@ -350,22 +364,6 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
-      "key": "AnimeMoDu",
-      "name": "🤡魔都┃动漫🤡",
-      "type": 3,
-      "api": "csp_AnimeMoDuGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "AnimeGiriGiri",
-      "name": "🤡小爱┃动漫🤡",
-      "type": 3,
-      "api": "csp_AnimeGiriGiriGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
 	{
       "key": "AnimeFanShu",
       "name": "🤡番薯┃动漫🤡",
@@ -374,11 +372,35 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
-      "key": "AnimeXiFan",
-      "name": "🤡稀饭┃动漫🤡",
+	{
+      "key": "AnimeAoWuGuard",
+      "name": "🤡嗷呜┃动漫🤡",
       "type": 3,
-      "api": "csp_AnimeXiFanGuard",
+      "api": "csp_AnimeAoWuGuard",
+      "searchable": 1,
+      "changeable": 1
+    },
+	{
+      "key": "AnimeFanChaGuard",
+      "name": "🤡饭茶┃动漫🤡",
+      "type": 3,
+      "api": "csp_AnimeFanChaGuard",
+      "searchable": 1,
+      "changeable": 1
+    },
+	{
+      "key": "AnimeMiaoWuGuard",
+      "name": "🤡喵呜┃动漫🤡",
+      "type": 3,
+      "api": "csp_AnimeMiaoWuGuard",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "AnimeMoDu",
+      "name": "🤡魔都┃动漫🤡",
+      "type": 3,
+      "api": "csp_AnimeMoDuGuard",
       "searchable": 1,
       "changeable": 1
     },
@@ -647,6 +669,7 @@
         "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/345A587_773_gaozhong_20250828171449997newMediaImage.txt"
       }
     },
+
     {
       "key": "emby",
       "name": "🀄️emby┃4K🀄️",
@@ -744,6 +767,18 @@
       }
     },	
 	{
+      "key": "Fake115Share",
+      "name": "💓115┃分享💓‍",
+      "type": 3,
+      "api": "csp_Fake115ShareGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 50,
+      "style": {
+        "type": "list"
+      }
+    },
+	{
       "key": "MyPan123",
       "name": "💓我的┃123💓‍",
       "type": 3,
@@ -780,34 +815,10 @@
       "changeable": 0
     },
     {
-      "key": "SoTjSo",
-      "name": "🎠太极┃综合🎠",
-      "type": 3,
-      "api": "csp_SoTjSoGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "SoAiPan",
-      "name": "🎠给力┃综合🎠",
-      "type": 3,
-      "api": "csp_SoAiPanGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
       "key": "So97So",
       "name": "🎠九七┃综合🎠",
       "type": 3,
       "api": "csp_So97SoGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "SoZhaoPanSo",
-      "name": "🎠找盘┃综合🎠",
-      "type": 3,
-      "api": "csp_SoZhaoPanSoGuard",
       "searchable": 1,
       "changeable": 0
     },
@@ -978,7 +989,7 @@
       "name": "综合直播",
       "type": 0,
       "playerType": 2,
-      "url": "https://ds65.tv1288.xyz",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
       "ua": "bingcha/1.1 (mianfeifenxiang) "
     }
   ],
