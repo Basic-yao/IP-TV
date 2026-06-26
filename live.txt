@@ -2,18 +2,14 @@
 
 #港澳台
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰资讯.png" group-title="港澳台",凤凰资讯
-http://rihou.cc:555/tv/[Pd]凤凰资讯
+http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰资讯.png" group-title="港澳台",凤凰资讯
-http://r.jdshipin.com/0Rp07
-
+https://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰资讯.png" group-title="港澳台",凤凰资讯
-https://fjct-524-cf1.stream.264788.xyz/PLTV/88888888/224/3221226929/1.m3u8?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk&streamkey=06Au6xOXDlDEaauegXxgtRfkyl7p9snlPBSu7eYxEhbAvKrW3hJOpf3PrsZhOauY5wEGkA2fADpgdHvG32J1oW7wGca86MA6bNdSjbMjRdduQ5Kr&token=1779958302-8abb3d1acd0f3a0f-0-53c8b15d681c09e4e975dd9ea5b7af57
-
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰资讯.png" group-title="港澳台",凤凰资讯
-https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+https://live.264788.xyz/channel/fenghuangweishizixun?streamid=7fb13f400476e75ce6c34d1f40c28473&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰中文台.png" group-title="港澳台",凤凰中文
-http://r.jdshipin.com/cCCzW
+https://fjct-724-cf1.stream.264788.xyz/PLTV/88888888/224/3221226980/1.m3u8?streamid=3ed416f2709e7ecaf6dc1b9d9c66bb5e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk&streamkey=070kmnWlSO6tVy8xJTawenqz3qgBerAA1ZrksRNRSO2dq8BsOfiynsO29rHDJ20dlMaSsM1XaHvGmW0HAXxUe575FoOxgvXyEmVTErkBfvBRrq3vPPHZ&token=1782462418-fa8f80ff76f42428-0-c38109d15305ead54a0692fd4053bbe5
 
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰香港.png" group-title="港澳台",凤凰香港
 https://fjct-724-cf1.stream.264788.xyz/PLTV/88888888/224/3221226980/1.m3u8?streamid=3ed416f2709e7ecaf6dc1b9d9c66bb5e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk&streamkey=070kmnWlSO6tVyLxxPGNoMdjOW8WlZtllsEi6SzoIhZH6PmeyyQIlz6eabeb0VHHzYLYPaFdI1jlzvulpfTJXIj034jFr8UmMysE7A6haGJTYafvyDvW&token=1779958577-3f06575a22474267-0-01c7fcddf724bcd8a6f917f799b2b149
