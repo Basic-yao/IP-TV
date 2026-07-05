@@ -3,13 +3,15 @@
 #港澳台
 
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/第一财经.png" group-title="港澳台",第一财经
-https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001017/index.m3u8?streamid=3c6cb6f00aa32febab803c0b2304d5d0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk&streamkey=07xclP9QQ7A17O0RUT5mR1Q3LWW9wlK3o7b9hB10b66336m68UiiCotiFmZgNTFS2HPM7c272TEKjVroxrfSQMevqJH1VCPMraIzEVf7ykapDc6M4dW4UcT6&token=1782628342-368154c6d8fbb8c7-0-7c0a90b6f8e8aebbfb728f5b1dccd96d
+https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001017/index.m3u8?streamid=3c6cb6f00aa32febab803c0b2304d5d0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk&streamkey=07xclP9QQ7A17NCFGf1mfuFaua41ojlcYwLA0QKkgBl2VFJmlzdtF8PJOpjNLvgka8AF4ZzX63Bs3OgEbTBz8I6wN8OXJeGyUidnrt5bk3YSTD9l1oUephu1&token=1783235277-197b9a4c71ecf66e-0-945640564f163077e474a5dc239bf7d2
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/第一财经.png" group-title="港澳台",第一财经
+https://live.264788.xyz/channel/diyicaijing?streamid=50d4da670b986b3815f3797d1ffe0c6e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰资讯.png" group-title="港澳台",凤凰资讯
-http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8
+https://fjct-524-cf1.stream.264788.xyz/PLTV/88888888/224/3221226929/1.m3u8?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk&streamkey=06Au6xOXDlDEaarN4xFOsg64O6XU1x4Dnc0BB1jesfDPc5Zlu154MgdyDnGHmSZjGVLaoShdyRJEeq95NOBRTdCngnPgpZecuGQLBATVA0n7IUvt&token=1783235443-619a983d75fbe211-0-e9f719562151cae999f2e8cf0e64862d
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰资讯.png" group-title="港澳台",凤凰资讯
-https://cdn6.163189.xyz/163189/fhzx
+http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0yJmtleT0lMkElMkElMkElMkE=
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰资讯.png" group-title="港澳台",凤凰资讯
-https://live.264788.xyz/channel/fenghuangweishizixun?streamid=7fb13f400476e75ce6c34d1f40c28473&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0yJmtleT0qKioq
 
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰中文台.png" group-title="港澳台",凤凰中文
 https://fjct-724-cf1.stream.264788.xyz/PLTV/88888888/224/3221226980/1.m3u8?streamid=3ed416f2709e7ecaf6dc1b9d9c66bb5e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk&streamkey=070kmnWlSO6tVy8xJTawenqz3qgBerAA1ZrksRNRSO2dq8BsOfiynsO29rHDJ20dlMaSsM1XaHvGmW0HAXxUe575FoOxgvXyEmVTErkBfvBRrq3vPPHZ&token=1782462418-fa8f80ff76f42428-0-c38109d15305ead54a0692fd4053bbe5
