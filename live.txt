@@ -35,6 +35,17 @@ http://61.221.215.25:8800/hls/49/index.m3u8
 #EXTINF:-1 tvg-name="音乐现场" tvg-id="音乐现场" tvg-logo="https://tb.zbds.top/logo/音乐现场.png" group-title="音乐频道", 音乐现场
 https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 
+#EXTINF:-1 tvg-name="公视戏剧" tvg-id="公视戏剧" tvg-logo="https://livecdn.zbds.top/logo/公视戏剧.png" group-title="戏曲频道", 公视戏剧
+http://61.163.58.168:2005/play/forward/5?tvid=ptsdrama&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5Ijoi5rex5Zyz5biCIiwiaXAiOiI1OS4zNi4xNjYuMjE1IiwidHZpZCI6IjI3OTY4NTIzIiwiZWNvbm9taXplIjoi5bm_5LicIiwiZXhwIjoxNzQ2MTAyMDU0LCJuYmYiOjE3NDYwODQwNTQsImlhdCI6MTc0NjA4NDA1NH0.S3NFp_Pg4T14ExLY5n4E7
+#EXTINF:-1 tvg-name="龙华戏剧" tvg-id="龙华戏剧" tvg-logo="https://livecdn.zbds.top/logo/龙华戏剧.png" group-title="戏曲频道", 龙华戏剧
+https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+#EXTINF:-1 tvg-name="三立戏剧" tvg-id="三立戏剧" tvg-logo="https://livecdn.zbds.top/logo/三立戏剧.png" group-title="戏曲频道", 三立戏剧
+http://61.163.58.168:2005/play/forward/5?tvid=setdramatw&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5Ijoi5rex5Zyz5biCIiwiaXAiOiI1OS4zNi4xNjYuMjE1IiwidHZpZCI6IjI3OTY4NTIzIiwiZWNvbm9taXplIjoi5bm_5LicIiwiZXhwIjoxNzQ2MTAyMDU0LCJuYmYiOjE3NDYwODQwNTQsImlhdCI6MTc0NjA4NDA1NH0.S3NFp_Pg4T14ExLY5n
+#EXTINF:-1 tvg-name="戏曲精选" tvg-id="戏曲精选" tvg-logo="https://livecdn.zbds.top/logo/戏曲精选.png" group-title="戏曲频道", 戏曲精选
+http://wouu.net:9977/udp/239.93.0.144:5140
+#EXTINF:-1 tvg-name="梨园频道" tvg-id="梨园频道" tvg-logo="https://livecdn.zbds.top/logo/梨园频道.png" group-title="戏曲频道", 梨园频道
+http://183.196.87.176:880/hls/57/index.m3u8
+
 #☘️广东频道#
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://live.fanmingming.cn/tv/广州综合.png" group-title="☘️广东频道",广州综合
 http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
