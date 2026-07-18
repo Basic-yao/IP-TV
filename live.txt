@@ -60,16 +60,6 @@ http://jellyfin.cyruslee.top:8888/udp/239.77.0.225:5146
 http://61.145.188.90:50055/udp/239.77.0.225:5146
 
 #EXTINF:-1 tvg-name="广州珠江" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广州珠江.png" group-title="☘️广东频道",广州珠江
-http://vp.maomizi.cc:9530/udp/239.77.0.1:5146
-#EXTINF:-1 tvg-name="广州珠江" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广州珠江.png" group-title="☘️广东频道",广州珠江
-http://lsa.familyds.com:8188/udp/239.77.0.1:5146
-#EXTINF:-1 tvg-name="广州珠江" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广州珠江.png" group-title="☘️广东频道",广州珠江
-http://ikuai.cyruslee.top:8888/udp/239.77.0.1:5146
-#EXTINF:-1 tvg-name="广州珠江" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广州珠江.png" group-title="☘️广东频道",广州珠江
-http://gdyd.7259.cc.cd:4013/udp/239.77.0.1:5146
-#EXTINF:-1 tvg-name="广州珠江" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广州珠江.png" group-title="☘️广东频道",广州珠江
-http://gdyd.7259.cc.cd:4111/udp/239.77.0.1:5146
-#EXTINF:-1 tvg-name="广州珠江" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广州珠江.png" group-title="☘️广东频道",广州珠江
 http://gdyd.7259.cc.cd:4014/udp/239.77.0.1:5146
 
 #EXTINF:-1 tvg-name="广州体育" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广州体育.png" group-title="☘️广东频道",广州体育
