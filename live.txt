@@ -29,7 +29,7 @@ http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab47
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://live.fanmingming.cn/tv/广州新闻.png" group-title="☘️广东频道",广州新闻
 http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
 #EXTINF:-1 tvg-name="广州珠江" tvg-logo="https://live.fanmingming.cn/tv/广州珠江.png" group-title="☘️广东频道",广州珠江
-http://198.204.228.26/live/gdzja.m3u8
+http://lsa.familyds.com:8188/udp/239.77.0.1:5146
 #EXTINF:-1 tvg-name="广州体育" tvg-logo="https://live.fanmingming.cn/tv/广州体育.png" group-title="☘️广东频道",广州体育
 http://111.221.137.234:44330/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="东莞新闻综合" tvg-logo="https://live.fanmingming.cn/tv/东莞新闻综合.png" group-title="☘️广东频道",东莞新闻综合
