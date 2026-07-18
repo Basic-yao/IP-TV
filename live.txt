@@ -274,7 +274,7 @@ http://120.76.248.139/live/bfgd/4200000108.m3u8
 http://120.76.248.139/live/bfgd/4200000118.m3u8
 #http://zqh2333.top:2222/rtp/239.93.24.247:5140
 
-#EXTINF:-1 tvg-name="四川科教" tvg-id="四川科教" tvg-logo="https://tb.zbds.top/logo/四川科教.png" group-title="咪咕频", 四川科教
+#EXTINF:-1 tvg-name="四川科教" tvg-id="四川科教" tvg-logo="https://tb.zbds.top/logo/四川科教.png" group-title="咪咕频道", 四川科教
 http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 #EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/农林卫视.png" group-title="咪咕频道",农林卫视
 http://120.76.248.139/live/bfgd/4200000122.m3u8
