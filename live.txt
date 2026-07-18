@@ -42,6 +42,22 @@ http://mg.cttv.vip/608831231
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广东卫视.png" group-title="☘️广东频道",广东卫视
 http://www.maomizi.cn:9527/udp/239.77.0.84:5146
 
+#EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广东新闻.png" group-title="☘️广东频道",广东新闻
+http://192.151.150.154/live/gdxw.m3u8
+#EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广东新闻.png" group-title="☘️广东频道",广东新闻
+http://198.204.228.26/live/gdxw.m3u8
+#EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广东新闻.png" group-title="☘️广东频道",广东新闻
+http://192.151.150.154/live/gdxwa.m3u8
+
+#EXTINF:-1 tvg-name="广东民生" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广东民生.png" group-title="☘️广东频道",广东民生
+http://yanshifen.top:8889/udp/239.77.0.225:5146
+#EXTINF:-1 tvg-name="广东民生" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广东民生.png" group-title="☘️广东频道",广东民生
+http://bot22.top:19999/udp/239.77.0.225:5146
+#EXTINF:-1 tvg-name="广东民生" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广东民生.png" group-title="☘️广东频道",广东民生
+http://jellyfin.cyruslee.top:8888/udp/239.77.0.225:5146
+#EXTINF:-1 tvg-name="广东民生" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广东民生.png" group-title="☘️广东频道",广东民生
+http://61.145.188.90:50055/udp/239.77.0.225:5146
+
 #EXTINF:-1 tvg-name="广州珠江" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广州珠江.png" group-title="☘️广东频道",广州珠江
 http://vp.maomizi.cc:9530/udp/239.77.0.1:5146
 #EXTINF:-1 tvg-name="广州珠江" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广州珠江.png" group-title="☘️广东频道",广州珠江
