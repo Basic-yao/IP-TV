@@ -1,6 +1,6 @@
 {
 
-  "spider": "https://raw.githubusercontent.com/Basic-yao/TVBox/refs/heads/main/7bae0e28de9ef4f11206482b70524912.jar;md5;c0b7317763e162949ba0a829c21edb12",
+  "spider": "https://raw.githubusercontent.com/Basic-yao/TVBox/refs/heads/main/e3a2cf728803f1b3bf270cb55da4bed5.jar;md5;1a506e8dfa9c58ca9daf4d701812260d",
   "wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",
   "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3CEAE9E_773_wexfnw_20250911190012684newMediaFile.gif",
   "sites": [
@@ -16,7 +16,7 @@
     },
 	{
       "key": "Doubana",
-      "name": "🐮【更新日期:20260621】🐮",
+      "name": "🐮【更新日期:20260627】🐮",
       "type": 3,
       "api": "csp_NewDouBanGuard",
       "searchable": 0,
@@ -41,7 +41,10 @@
       "api": "csp_WexConfigGuard",
       "searchable": 0,
       "changeable": 0,
-      "indexs": 0
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      }
     },
 	{
       "key": "SportGuaZi",
@@ -323,6 +326,22 @@
       "api": "csp_LiveBiLiGuard",
       "searchable": 1,
       "changeable": 1
+    },
+	{
+      "key": "ManJuHuoLong",
+      "name": "🍉漫剧┃小龙🍉",
+      "type": 3,
+      "api": "csp_ManJuHuoLongGuard",
+      "searchable": 1,
+      "changeable": 0
+    },
+	 {
+      "key": "ManJuQiMao",
+      "name": "🍉漫剧┃小猫🍉",
+      "type": 3,
+      "api": "csp_ManJuQiMaoGuard",
+      "searchable": 1,
+      "changeable": 0
     },
 	 {
       "key": "DuanJuHaoKan",
@@ -669,7 +688,6 @@
         "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/345A587_773_gaozhong_20250828171449997newMediaImage.txt"
       }
     },
-
     {
       "key": "emby",
       "name": "🀄️emby┃4K🀄️",
@@ -693,6 +711,17 @@
       "api": "csp_WebDAVGuard",
       "searchable": 1,
       "changeable": 0
+    },
+    {
+      "key": "DiyVod",
+      "name": "👁Vod┃DIY👁️",
+      "type": 3,
+      "api": "csp_DiyVodGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+     }
     },
 	{
       "key": "MyQuark",
