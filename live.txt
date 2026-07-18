@@ -37,6 +37,11 @@ http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab47
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广州新闻.png" group-title="☘️广东频道",广州新闻
 http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
 
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广东卫视.png" group-title="☘️广东频道",广东卫视
+http://mg.cttv.vip/608831231
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广东卫视.png" group-title="☘️广东频道",广东卫视
+http://www.maomizi.cn:9527/udp/239.77.0.84:5146
+
 #EXTINF:-1 tvg-name="广州珠江" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广州珠江.png" group-title="☘️广东频道",广州珠江
 http://vp.maomizi.cc:9530/udp/239.77.0.1:5146
 #EXTINF:-1 tvg-name="广州珠江" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广州珠江.png" group-title="☘️广东频道",广州珠江
