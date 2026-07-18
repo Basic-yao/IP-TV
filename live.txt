@@ -3,6 +3,10 @@
 #港澳台
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/第一财经.png" group-title="港澳台",第一财经
 http://mg.cttv.vip/608780988
+#EXTINF:-1 tvg-name="Now财经" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/Now财经.png" group-title="港澳台",Now财经
+http://www.kaniptv.cn/uadl.php?etoken=5ZIsPFVB04hYLVSG5pAhh%2BebJ6ovchbY4Eylk%2B52HclCOBDY%2B3tctSLuextyswaLmSj02gBYOyfbgxS%2BIC6%2FVAzP2QWAPQ9k1JBsVxP9pJV%2BsOvrhpzxJL1UCytFtPxVjILuSdG7slg9fKhStbR0BypDHyQRs3bIbfQgdxDgE8Q93TN85V0xNfMSplJoEojlJwgKNP59K1qvUY8usT3pRTQJR6BzR4AyQ4OV4xYVioGvZ9Gl83zh6XFHTjw1XQBJz6t9tRzwthPBuw7zGhRtF1Gk%2FNofD%2BX6o9i8cH2INycE%2Be5SQKLyi6jyiNWfxZPPv2CT15wMyYsb%2Fw4WIYljbg%3D%3D
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/第一财经.png" group-title="港澳台",第一财经
+https://live.264788.xyz/channel/diyicaijing?streamid=9c40de9ef5c8cdf9cc21d6ad9e6b9d76&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰中文台.png" group-title="港澳台",凤凰中文
 http://www.kaniptv.cn/uadl.php?etoken=O1q3Z18SS%2BUUkDxIOETBxSx6RSVzboPmhMiqdSd4A1wKC2yamgRq8MreGEFleWTL9jKa8g6DUSUd9gB8HWUDxxKHrm%2FG2WMYigEgYgS4wye9wWRNk0K0DfuNg8EaNHafcMCup5PMNPngGS1ggK%2F2kFnDvZ7GK93kc5RWK19D7HDEaVRxUIuP0rdoKig5mNB76IcwPdmNxavoYFizyGJjCFwjYVez%2BsfNaz7Q8T2fWu6%2Fy2uDvuOymrTaU3UifTlXm%2FU4tKi%2FMW5sw3EbXzRzF8vAxfgoR1Ar%2Bf4hp22mt0BPjUbaB10d71pMjMESNqzM2r8B%2FVD123ouGyDhtfUXLA%3D%3D
 
@@ -30,12 +34,7 @@ http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab47
 http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
 #EXTINF:-1 tvg-name="广州珠江" tvg-logo="https://live.fanmingming.cn/tv/广州珠江.png" group-title="☘️广东频道",广州珠江
 http://lsa.familyds.com:8188/udp/239.77.0.1:5146
-#EXTINF:-1 tvg-name="广州体育" tvg-logo="https://live.fanmingming.cn/tv/广州体育.png" group-title="☘️广东频道",广州体育
-http://yanshifen.top:8889/udp/239.77.0.112:5146
-#EXTINF:-1 tvg-name="广州体育" tvg-logo="https://live.fanmingming.cn/tv/广州体育.png" group-title="☘️广东频道",广州体育
-http://www.syy3.top:3861/udp/239.77.0.112:5146
-#EXTINF:-1 tvg-name="广州体育" tvg-logo="https://live.fanmingming.cn/tv/广州体育.png" group-title="☘️广东频道",广州体育
-http://www.syy3.top:3861/udp/239.77.0.112:5146
+
 #EXTINF:-1 tvg-name="广州体育" tvg-logo="https://live.fanmingming.cn/tv/广州体育.png" group-title="☘️广东频道",广州体育
 http://www.yahao.host:4022/udp/239.77.0.112:5146
 #EXTINF:-1 tvg-name="广州体育" tvg-logo="https://live.fanmingming.cn/tv/广州体育.png" group-title="☘️广东频道",广州体育
