@@ -3,7 +3,9 @@
 #港澳台
 
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/第一财经.png" group-title="港澳台",第一财经
-https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001017/index.m3u8?streamid=3c6cb6f00aa32febab803c0b2304d5d0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk&streamkey=07xclP9QQ7A17NCFGf1mfuFaua41ojlcYwLA0QKkgBl2VFJmlzdtF8PJOpjNLvgka8AF4ZzX63Bs3OgEbTBz8I6wN8OXJeGyUidnrt5bk3YSTD9l1oUephu1&token=1783235277-197b9a4c71ecf66e-0-945640564f163077e474a5dc239bf7d2
+https://live.264788.xyz/channel/diyicaijing?streamid=c8db609722f9ed252559f883cc079200&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/第一财经.png" group-title="港澳台",第一财经
+http://mg.cttv.vip/608780988
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/第一财经.png" group-title="港澳台",第一财经
 https://live.264788.xyz/channel/diyicaijing?streamid=50d4da670b986b3815f3797d1ffe0c6e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰资讯.png" group-title="港澳台",凤凰资讯
