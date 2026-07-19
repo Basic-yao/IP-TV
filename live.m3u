@@ -3,7 +3,12 @@
 
 
 #港澳台
-
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/第一财经.png" group-title="港澳台",第一财经
+https://live.264788.xyz/channel/diyicaijing?streamid=9c40de9ef5c8cdf9cc21d6ad9e6b9d76&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/第一财经.png" group-title="港澳台",第一财经
+http://wfenf.x3322.net:7788/608780988
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/第一财经.png" group-title="港澳台",第一财经
+https://live.264788.xyz/channel/diyicaijing?streamid=c8db609722f9ed252559f883cc079200&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/第一财经.png" group-title="港澳台",第一财经
 http://mg.cttv.vip/608780988
 
