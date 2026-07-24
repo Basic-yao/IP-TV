@@ -348,6 +348,14 @@ http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 
 
 #电影频道
+#EXTINF:-1 tvg-name="东阳影视生活" tvg-id="东阳影视生活" tvg-logo="https://tb.zbds.top/logo/东阳影视生活.png" group-title="电影频道", 东阳影视生活
+http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
+#EXTINF:-1 tvg-name="南宁影视娱乐" tvg-id="南宁影视娱乐" tvg-logo="https://tb.zbds.top/logo/南宁影视娱乐.png" group-title="电影频道", 南宁影视娱乐
+http://hls.nntv.cn/nnlive/YSYL_244.m3u8
+#EXTINF:-1 tvg-name="哈尔滨影视" tvg-id="哈尔滨影视" tvg-logo="https://tb.zbds.top/logo/哈尔滨影视.png" group-title="电影频道", 哈尔滨影视
+http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
+#EXTINF:-1 tvg-name="浙江教科影视" tvg-id="浙江教科影视" tvg-logo="https://tb.zbds.top/logo/浙江教科影视.png" group-title="电影频道", 浙江教科影视
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1 tvg-name="电影丧尸片" tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影丧尸片.png" group-title="电影频道", 电影丧尸片
 http://live.metshop.top/huya/21059578?cdn=alicdn
 #EXTINF:-1 tvg-name="电影八点档" tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影八点档.png" group-title="电影频道", 电影八点档
@@ -416,14 +424,7 @@ http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
 
 
 #电视剧频道
-#EXTINF:-1 tvg-name="东阳影视生活" tvg-id="东阳影视生活" tvg-logo="https://tb.zbds.top/logo/东阳影视生活.png" group-title="电视剧频道", 东阳影视生活
-http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
-#EXTINF:-1 tvg-name="南宁影视娱乐" tvg-id="南宁影视娱乐" tvg-logo="https://tb.zbds.top/logo/南宁影视娱乐.png" group-title="电视剧频道", 南宁影视娱乐
-http://hls.nntv.cn/nnlive/YSYL_244.m3u8
-#EXTINF:-1 tvg-name="哈尔滨影视" tvg-id="哈尔滨影视" tvg-logo="https://tb.zbds.top/logo/哈尔滨影视.png" group-title="电视剧频道", 哈尔滨影视
-http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
-#EXTINF:-1 tvg-name="浙江教科影视" tvg-id="浙江教科影视" tvg-logo="https://tb.zbds.top/logo/浙江教科影视.png" group-title="电视剧频道", 浙江教科影视
-https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+
 #EXTINF:-1 tvg-name="冰冰影剧" tvg-id="冰冰影剧" tvg-logo="https://tb.zbds.top/logo/冰冰影剧.png" group-title="电视剧频道", 冰冰影剧
 http://www.goodiptv.club/douyu/74374
 #EXTINF:-1 tvg-name="刀刀影院" tvg-id="刀刀影院" tvg-logo="https://tb.zbds.top/logo/刀刀影院.png" group-title="电视剧频道", 刀刀影院
@@ -443,27 +444,21 @@ http://www.goodiptv.club/douyu/4246519
 https://goodiptv.club/douyu/5908256
 #EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/少年包青天1.png" group-title="电视剧频道",少年包青天第一部
 https://live.ottiptv.cc/yy/1356043677
-#EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/少年包青天3.png" group-title="电视剧频道",少年包青天第三部
-https://live.ottiptv.cc/yy/1382736814
 #EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/神探狄仁杰2.png" group-title="电视剧频道",神探狄仁杰第二部
 https://goodiptv.club/douyu/6027991
+#EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/少年包青天3.png" group-title="电视剧频道",少年包青天第三部
+https://live.ottiptv.cc/yy/1382736814
 #EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/伪装者.png" group-title="电视剧频道",伪装者
 https://live.ottiptv.cc/yy/1354936244
-
 #EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/西游记后传.png" group-title="电视剧频道",西游记后传
 https://live.ottiptv.cc/yy/1353392400
 #EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/隋唐英雄传.png" group-title="电视剧频道",隋唐英雄传
 https://live.ottiptv.cc/yy/1352475619
 #EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/仙剑奇侠传.png" group-title="电视剧频道",仙剑奇侠传
 https://live.ottiptv.cc/yy/1382749903
-
-#EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/利刃出鞘.png" group-title="电视剧频道",我是特种兵之利刃出鞘
-https://live.ottiptv.cc/yy/37999586
-
 #EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/新白娘子传奇.png" group-title="电视剧频道", 新白娘子传奇
 https://live.ottiptv.cc/yy/1354490667
 #http://luobo.bkpcp.top/yy/1354490667
-
 #EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/电视剧.png" group-title="电视剧频道",知否知否
 https://live.ottiptv.cc/yy/21881901
 #EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/电视剧.png" group-title="电视剧频道",父母爱情
