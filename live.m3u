@@ -308,45 +308,6 @@ http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 #http://www.lizhinas.top:1009/rtp/239.252.219.169:5140
 
-#国际频道
-
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://tb.zbds.top/logo/ChannelAsia.png" group-title="国际频道",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
-#EXTINF:-1 tvg-name="ABC News Live" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/tv-logos/main/countries/united-states/abc-news-live-hz-us.png" group-title="国际频道",ABC News Live
-https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
-
-#EXTINF:-1 group-title="国际频道",WionNews
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-
-#EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" tvg-logo="https://tb.zbds.top/logo/ArirangTV.png" group-title="国际频道",Arirang
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="988" tvg-name="Trace Sports" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TRACESportStars.png" group-title="国际频道",Trace Sports
-https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 group-title="国际频道",Newsmax
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-
-#EXTINF:-1 group-title="国际频道",Wild Earth
-https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://tb.zbds.top/logo/CGTN.png" group-title="国际频道",CGTN英语
-http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-#https://0472.org/hls/cgtn.m3u8
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://tb.zbds.top/logo/CGTN纪录.png" group-title="国际频道",CGTN记录
-https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-#https://0472.org/hls/cgtnd.m3u8
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://tb.zbds.top/logo/CGTN俄语.png" group-title="国际频道",CGTN俄语
-http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
-#https://0472.org/hls/cgtne.m3u8
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://tb.zbds.top/logo/CGTN法语.png" group-title="国际频道",CGTN法语
-http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
-#https://0472.org/hls/cgtnf.m3u8
-#EXTINF:-1 tvg-id="韩国EBS少儿" tvg-name="韩国EBS少儿" tvg-logo="https://tb.zbds.top/logo/韩国EBS少儿.png" group-title="国际频道",韩国EBS少儿
-http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
-
-
 #电影频道
 #EXTINF:-1 tvg-name="东阳影视生活" tvg-id="东阳影视生活" tvg-logo="https://tb.zbds.top/logo/东阳影视生活.png" group-title="电影频道", 东阳影视生活
 http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
@@ -364,8 +325,6 @@ http://live.metshop.top/huya/880261?cdn=alicdn
 http://live.metshop.top/huya/11342424?cdn=alicdn
 #EXTINF:-1 tvg-name="电影功夫片" tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影功夫片.png" group-title="电影频道", 电影功夫片
 http://live.metshop.top/huya/11352941?cdn=alicdn
-#EXTINF:-1 tvg-name="电影喜剧专场" tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影喜剧专场.png" group-title="电影频道", 电影喜剧专场
-http://live.metshop.top/huya/11602044?cdn=alicdn
 #EXTINF:-1 tvg-name="电影嫣然影厅" tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影嫣然影厅.png" group-title="电影频道", 电影嫣然影厅
 http://live.metshop.top/huya/11601977?cdn=alicdn
 #EXTINF:-1 tvg-name="电影战争片" tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影战争片.png" group-title="电影频道", 电影战争片
