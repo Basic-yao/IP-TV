@@ -108,6 +108,17 @@ http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 #EXTINF:-1 tvg-id="浙江卫视超清" tvg-name="浙江卫视超清" tvg-logo="" group-title="超清频道",浙江卫视超清
 http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://tb.zbds.top/logo/东方卫视4K.png" group-title="超清频道",东方卫视4K
+http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+#EXTINF:-1 tvg-id="苏州" tvg-logo="https://tb.zbds.top/logo/苏州4K.png" group-title="超清频道",苏州4K
+https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+#http://8.138.7.223/tv/api.php?id=sztv4k
+#EXTINF:-1 tvg-id="河北" tvg-logo="https://tb.zbds.top/logo/河北4K.png" group-title="超清频道",河北4K
+https://event.pull.hebtv.com:443/live/live101.m3u8
+#http://8.138.7.223/tv/api.php?id=hebtv4k
+#EXTINF:-1 tvg-id="南国都市" tvg-logo="https://tb.zbds.top/logo/南国都市4K.png" group-title="超清频道",南国都市4K
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+
 #高清频道
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://tb.zbds.top/logo/CCTV1.png" group-title="高清频道",CCTV1
 http://kxz.kaniptv.cn/xz/xz_2215f2570c/kds2.php?e=cctv1hd
@@ -186,16 +197,6 @@ http://kxz.kaniptv.cn/xz/xz_2215f2570c/湖南广电.php?id=5608
 http://kxz.kaniptv.cn/xz/xz_2215f2570c/湖南广电.php?id=5195
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://tb.zbds.top/logo/新疆卫视视.png" group-title="高清频道",新疆卫视
 http://kxz.kaniptv.cn/xz/xz_2215f2570c/湖南广电.php?id=5202
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://tb.zbds.top/logo/东方卫视4K.png" group-title="高清频道",东方卫视4K
-http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-#EXTINF:-1 tvg-id="苏州" tvg-logo="https://tb.zbds.top/logo/苏州4K.png" group-title="高清频道",苏州4K
-https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
-#http://8.138.7.223/tv/api.php?id=sztv4k
-#EXTINF:-1 tvg-id="河北" tvg-logo="https://tb.zbds.top/logo/河北4K.png" group-title="高清频道",河北4K
-https://event.pull.hebtv.com:443/live/live101.m3u8
-#http://8.138.7.223/tv/api.php?id=hebtv4k
-#EXTINF:-1 tvg-id="南国都市" tvg-logo="https://tb.zbds.top/logo/南国都市4K.png" group-title="高清频道",南国都市4K
-https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 #EXTINF:-1 tvg-id="河北卫视" tvg-logo="https://tb.zbds.top/logo/河北卫视.png" group-title="高清频道",河北卫视
 http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-logo="https://tb.zbds.top/logo/浙江卫视.png" group-title="高清频道",浙江卫视
