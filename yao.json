@@ -113,10 +113,10 @@
       "key": "JRSSport",
       "name": "🌐JRS┃体育🌐",
       "type": 3,
-      "api": "csp_SportjrsGuard",
+      "api": "https://www.88kanqiu.ooo/",
       "searchable": 1,
       "changeable": 0,
-      "ext": "https://www.88kanqiu.ooo/"
+      "quickSearch": 1
     },
     {
       "key": "二小",
