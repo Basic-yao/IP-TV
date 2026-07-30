@@ -1,31 +1,21 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 
-#港澳台
-#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://tb.zbds.top/logo/第一财经.png" group-title="港澳台",第一财经
+#我的收藏
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://tb.zbds.top/logo/第一财经.png" group-title="我的收藏",第一财经
 http://wfenf.x3322.net:7788/608780988
-#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://tb.zbds.top/logo/第一财经.png" group-title="港澳台",第一财经
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://tb.zbds.top/logo/第一财经.png" group-title="我的收藏",第一财经
 http://mg.cttv.vip/608780988
 
-#EXTINF:-1 tvg-name="Now财经" tvg-logo="https://tb.zbds.top/logo/Now财经.png" group-title="港澳台",Now财经
-http://www.kaniptv.cn/uadl.php?etoken=5ZIsPFVB04hYLVSG5pAhh%2BebJ6ovchbY4Eylk%2B52HclCOBDY%2B3tctSLuextyswaLmSj02gBYOyfbgxS%2BIC6%2FVAzP2QWAPQ9k1JBsVxP9pJV%2BsOvrhpzxJL1UCytFtPxVjILuSdG7slg9fKhStbR0BypDHyQRs3bIbfQgdxDgE8Q93TN85V0xNfMSplJoEojlJwgKNP59K1qvUY8usT3pRTQJR6BzR4AyQ4OV4xYVioGvZ9Gl83zh6XFHTjw1XQBJz6t9tRzwthPBuw7zGhRtF1Gk%2FNofD%2BX6o9i8cH2INycE%2Be5SQKLyi6jyiNWfxZPPv2CT15wMyYsb%2Fw4WIYljbg%3D%3D
-
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://tb.zbds.top/logo/凤凰中文台.png" group-title="港澳台",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://tb.zbds.top/logo/凤凰中文台.png" group-title="我的收藏",凤凰中文
 http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/live/ggiptv/jade/playlist.m3u8
 
-
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://tb.zbds.top/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://tb.zbds.top/logo/凤凰资讯.png" group-title="我的收藏",凤凰资讯
 https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
-#EXTINF:-1 tvg-name="有线新闻" tvg-logo="https://tb.zbds.top/logo/有线新闻.png" group-title="港澳台",有线新闻
-http://iptv.4666888.xyz/iptv2A.php?id=31
+#EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/新三国.png" group-title="我的收藏",新三国（斗鱼）
+https://goodiptv.club/douyu/5908256
 
-#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://tb.zbds.top/logo/龙华电影.png" group-title="港澳台",龙华电影
-http://iptv.4666888.xyz/iptv2A.php?id=45
-
-#EXTINF:-1 tvg-name="緯來體育" tvg-id="456575" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105618864183_26.png" group-title="港澳台",纬来体育
-http://tv123.cc.cd/live.php?ch=429&sid=d77b6f13ef1fe639746f0b7fde89410b&exp=1785336432&sig=46ddf616d9cd982dc32cc36ee3a6188f8d20fcffe6fba6e4d191841a240bbb21
-
-#EXTINF:-1 tvg-name="漫画解说" tvg-logo="https://tb.zbds.top/logo/漫画解说.png" group-title="港澳台",漫画解说
+#EXTINF:-1 tvg-name="漫画解说" tvg-logo="https://tb.zbds.top/logo/漫画解说.png" group-title="我的收藏",漫画解说
 https://www.goodiptv.club/douyu/5907076
 
 
