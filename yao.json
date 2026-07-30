@@ -113,7 +113,7 @@
       "key": "JRSSport",
       "name": "🌐JRS┃体育🌐",
       "type": 3,
-      "api": "csp_SportWweGuard",
+      "api": "csp_SportjrsGuard",
       "searchable": 1,
       "changeable": 0,
       "ext": "https://www.88kanqiu.ooo/"
@@ -1054,7 +1054,7 @@
         "name": "Kimentanm",
         "type": 0,
         "url": "https://raw.githubusercontent.com/Basic-yao/TVBox/refs/heads/main/live.m3u",
-        "playerType": 2
+        "playerType": 1
     },
     {
       "name": "综合直播",
