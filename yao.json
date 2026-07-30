@@ -110,6 +110,15 @@
       }
     },
     {
+      "key": "JRSSport",
+      "name": "🌐JRS┃体育🌐",
+      "type": 3,
+      "api": "csp_SportWweGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "https://www.88kanqiu.ooo/"
+    },
+    {
       "key": "二小",
       "name": "💓‍指南┃4K💓‍",
       "type": 3,
