@@ -11,8 +11,7 @@ http://www.kaniptv.cn/uadl.php?etoken=5ZIsPFVB04hYLVSG5pAhh%2BebJ6ovchbY4Eylk%2B
 
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://tb.zbds.top/logo/凤凰中文台.png" group-title="港澳台",凤凰中文
 http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/live/ggiptv/jade/playlist.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://tb.zbds.top/logo/凤凰中文台.png" group-title="港澳台",凤凰中文
-http://111.221.137.234:44330/tsfile/live/0141_2.m3u8?key=txiptv&playlive=0&authid=0
+
 
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://tb.zbds.top/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
 https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
