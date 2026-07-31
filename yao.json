@@ -110,15 +110,6 @@
       }
     },
     {
-      "key": "JRSSport",
-      "name": "🌐JRS┃体育🌐",
-      "type": 3,
-      "api": "https://www.88kanqiu.ooo/",
-      "searchable": 1,
-      "changeable": 0,
-      "quickSearch": 1
-    },
-    {
       "key": "二小",
       "name": "💓‍指南┃4K💓‍",
       "type": 3,
