@@ -18,18 +18,18 @@ https://goodiptv.club/douyu/5908256
 https://www.goodiptv.club/douyu/5907076
 
 #超清频道
-#EXTINF:-1 tvg-id="CCTV4k超" tvg-name="CCTV4k超" tvg-logo="https://tb.zbds.top/logo/CCTV4K超高清.png" group-title="超清频道",CCTV-4K超高清
+#EXTINF:-1 tvg-id="CCTV4k超" tvg-name="CCTV4k超" tvg-logo="https://tb.zbds.top/logo/CCTV4K超高清.png" group-title="超清频道",CCTV-4K
 http://107.150.60.122/live/cctv4k.m3u8
-#EXTINF:-1 tvg-id="CCTV4k超" tvg-name="CCTV4k超" tvg-logo="https://tb.zbds.top/logo/CCTV4K超高清.png" group-title="超清频道",CCTV-4K超高清
+#EXTINF:-1 tvg-id="CCTV4k超" tvg-name="CCTV4k超" tvg-logo="https://tb.zbds.top/logo/CCTV4K超高清.png" group-title="超清频道",CCTV-4K
 http://192.151.150.154/live/cctv4k.m3u8
-#EXTINF:-1 tvg-id="CCTV4k超" tvg-name="CCTV4k超" tvg-logo="https://tb.zbds.top/logo/CCTV4K超高清.png" group-title="超清频道",CCTV-4K超高清
+#EXTINF:-1 tvg-id="CCTV4k超" tvg-name="CCTV4k超" tvg-logo="https://tb.zbds.top/logo/CCTV4K超高清.png" group-title="超清频道",CCTV-4K
 http://198.204.228.26/live/cctv4k.m3u8
-#EXTINF:-1 tvg-id="CCTV8k超" tvg-name="CCTV8k超" tvg-logo="https://tb.zbds.top/logo/CCTV8K超高清.png" group-title="超清频道",CCTV-8K超高清
-http://198.204.228.26/live/cctv8k.m3u8
-#EXTINF:-1 tvg-id="CCTV8k超" tvg-name="CCTV8k超" tvg-logo="https://tb.zbds.top/logo/CCTV8K超高清.png" group-title="超清频道",CCTV-8K超高清
-http://107.150.60.122/live/cctv8k.m3u8
-#EXTINF:-1 tvg-id="CCTV8k超" tvg-name="CCTV8k超" tvg-logo="https://tb.zbds.top/logo/CCTV8K超高清.png" group-title="超清频道",CCTV-8K超高清
+#EXTINF:-1 tvg-id="CCTV8k超" tvg-name="CCTV8k超" tvg-logo="https://tb.zbds.top/logo/CCTV8K超高清.png" group-title="超清频道",CCTV-8K
 http://192.151.150.154/live/cctv8k.m3u8
+#EXTINF:-1 tvg-id="CCTV8k超" tvg-name="CCTV8k超" tvg-logo="https://tb.zbds.top/logo/CCTV8K超高清.png" group-title="超清频道",CCTV-8K
+http://198.204.228.26/live/cctv8k.m3u8
+#EXTINF:-1 tvg-id="CCTV8k超" tvg-name="CCTV8k超" tvg-logo="https://tb.zbds.top/logo/CCTV8K超高清.png" group-title="超清频道",CCTV-8K
+http://107.150.60.122/live/cctv8k.m3u8
 ##EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="https://tb.zbds.top/logo/湖南卫视4K.png" group-title="超清频道",湖南卫视4K
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="https://tb.zbds.top/logo/湖南卫视4K.png" group-title="超清频道",湖南卫视4K
