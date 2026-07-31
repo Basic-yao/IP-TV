@@ -540,51 +540,216 @@ http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
 
 
 
-#电视剧频道
-
-#EXTINF:-1 tvg-name="冰冰影剧" tvg-id="冰冰影剧" tvg-logo="https://tb.zbds.top/logo/冰冰影剧.png" group-title="电视剧频道", 冰冰影剧
+#影剧频道
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%A4%A9%E9%BE%99%E5%85%AB%E9%83%A8.png" group-title="影剧频道",天龙八部
+https://huyazhibo.de5.net/?id=29981376
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%A5%9A%E6%B1%89%E9%AA%84%E9%9B%84.png" group-title="影剧频道",楚汉骄雄
+https://huyazhibo.de5.net/?id=29465854
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%B0%81%E7%A5%9E%E6%A6%9C.png" group-title="影剧频道",封神榜
+https://huyazhibo.de5.net/?id=29465849
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%A4%A9%E5%9C%B0%E4%BA%89%E9%9C%B8%E7%BE%8E%E7%8C%B4%E7%8E%8B.png" group-title="影剧频道",天地争霸美猴王
+https://huyazhibo.de5.net/?id=29465859
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%A4%A7%E5%94%90%E5%8F%8C%E9%BE%99%E4%BC%A0.png" group-title="影剧频道",大唐双龙传
+https://huyazhibo.de5.net/?id=29465850
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%88%91%E4%BA%8B%E4%BE%A6%E7%BC%89%E6%A1%A3%E6%A1%88.png" group-title="影剧频道",刑事侦缉档案
+https://huyazhibo.de5.net/?id=29465856
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B4%97%E5%86%A4%E5%BD%95.png" group-title="影剧频道",洗冤录
+https://huyazhibo.de5.net/?id=29465851
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%99%80%E6%9E%AA%E5%B8%88%E5%A7%90.png" group-title="影剧频道",陀枪师姐
+https://huyazhibo.de5.net/?id=29465857
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%89%AB%E9%BB%84%E5%85%88%E9%94%8B.png" group-title="影剧频道",扫黄先锋
+https://huyazhibo.de5.net/?id=29465855
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%A6%99%E6%89%8B%E4%BB%81%E5%BF%83.png" group-title="影剧频道",妙手仁心
+https://huyazhibo.de5.net/?id=29465853
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%87%8E%E8%9B%AE%E4%BA%B2%E5%AE%B6.png" group-title="影剧频道",野蛮亲家
+https://huyazhibo.de5.net/?id=23863796
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%AC%91%E7%9C%8B%E9%A3%8E%E4%BA%91.png" group-title="影剧频道",笑看风云
+https://huyazhibo.de5.net/?id=29465858
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%9F%A6%E5%B0%8F%E5%AE%9D.png" group-title="影剧频道",韦小宝
+https://huyazhibo.de5.net/?id=23650774
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B8%AF%E7%89%88%E8%A5%BF%E6%B8%B8%E8%AE%B0.png" group-title="影剧频道",港版西游记
+https://huyazhibo.de5.net/?id=29465860
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%9B%AA%E5%B1%B1%E9%A3%9E%E7%8B%90.png" group-title="影剧频道",雪山飞狐
+https://huyazhibo.de5.net/?id=23734176
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%90%8D%E4%BE%A6%E6%8E%A2%E6%9F%AF%E5%8D%97.png" group-title="影剧频道",名侦探柯南
+https://huyazhibo.de5.net/?id=30080236
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85.png" group-title="影剧频道",火影忍者
+https://huyazhibo.de5.net/?id=29465866
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B5%B7%E8%B4%BC%E7%8E%8B.png" group-title="影剧频道",海贼王
+https://huyazhibo.de5.net/?id=29982634
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%B2%BE%E7%81%B5%E5%AE%9D%E5%8F%AF%E6%A2%A6.png" group-title="影剧频道",精灵宝可梦
+https://huyazhibo.de5.net/?id=23749096
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%A5%9E%E5%A5%87%E5%AE%9D%E8%B4%9D.png" group-title="影剧频道",神奇宝贝
+https://huyazhibo.de5.net/?id=21241784
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%AE%AB%E5%B4%8E%E9%AA%8F.png" group-title="影剧频道",宫崎骏
+https://huyazhibo.de5.net/?id=21059614
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%92%A2%E4%B9%8B%E7%82%BC%E9%87%91%E6%9C%AF%E5%B8%88.png" group-title="影剧频道",钢之炼金术师
+https://huyazhibo.de5.net/?id=20985859
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%BB%91%E5%AD%90%E7%9A%84%E7%AF%AE%E7%90%83.png" group-title="影剧频道",黑子的篮球
+https://huyazhibo.de5.net/?id=30080253
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%91%9E%E5%85%8B%E4%B8%8E%E8%8E%AB%E8%92%82.png" group-title="影剧频道",瑞克与莫蒂
+https://huyazhibo.de5.net/?id=29982655
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%98%9F%E8%BE%B0%E5%8F%98.png" group-title="影剧频道",星辰变
+https://huyazhibo.de5.net/?id=24514506
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%88%90%E9%BE%99%E5%8E%86%E9%99%A9%E8%AE%B0.png" group-title="影剧频道",成龙历险记
+https://huyazhibo.de5.net/?id=11352946
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%A3%9E%E5%A4%A9%E5%B0%8F%E5%A5%B3%E8%AD%A6.png" group-title="影剧频道",飞天小女警
+https://huyazhibo.de5.net/?id=11601958
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%9C%A1%E7%AC%94%E5%B0%8F%E6%96%B0.png" group-title="影剧频道",蜡笔小新
+https://huyazhibo.de5.net/?id=11352970
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%A8%B1%E6%A1%83%E5%B0%8F%E4%B8%B8%E5%AD%90.png" group-title="影剧频道",樱桃小丸子
+https://huyazhibo.de5.net/?id=11342394
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%8C%AB%E5%92%8C%E8%80%81%E9%BC%A0.png" group-title="影剧频道",猫和老鼠
+https://huyazhibo.de5.net/?id=11352879
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%B8%83%E9%BE%99%E7%8F%A0.png" group-title="影剧频道",七龙珠
+https://huyazhibo.de5.net/?id=11601966
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%85%A8%E8%81%8C%E9%AB%98%E6%89%8B.png" group-title="影剧频道",全职高手
+https://huyazhibo.de5.net/?id=21059628
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%93%86%E5%95%A6A%E6%A2%A6.png" group-title="影剧频道",哆啦A梦
+https://huyazhibo.de5.net/?id=11601963
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B5%B7%E7%BB%B5%E5%AE%9D%E5%AE%9D.png" group-title="影剧频道",海绵宝宝
+https://huyazhibo.de5.net/?id=11352919
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3.png" group-title="影剧频道",魔法少女
+https://huyazhibo.de5.net/?id=21059587
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%85%A8%E8%81%8C%E7%8C%8E%E4%BA%BA.png" group-title="影剧频道",全职猎人
+https://huyazhibo.de5.net/?id=30080254
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%9B%9B%E9%A9%B1%E5%85%84%E5%BC%9F.png" group-title="影剧频道",四驱兄弟
+https://huyazhibo.de5.net/?id=11352922
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%B8%80%E4%BA%BA%E4%B9%8B%E4%B8%8A.png" group-title="影剧频道",一人之上
+https://huyazhibo.de5.net/?id=11602065
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%A4%B4%E6%96%87%E5%AD%97D.png" group-title="影剧频道",头文字D
+https://huyazhibo.de5.net/?id=11352889
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%BD%91%E7%90%83%E7%8E%8B%E5%AD%90.png" group-title="影剧频道",网球王子
+https://huyazhibo.de5.net/?id=11352882
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%8E%A9%E5%85%B7%E6%80%BB%E5%8A%A8%E5%91%98.png" group-title="影剧频道",玩具总动员
+https://huyazhibo.de5.net/?id=30080256
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%80%9A%E7%81%B5%E7%8E%8B.png" group-title="影剧频道",通灵王
+https://huyazhibo.de5.net/?id=20969112
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B8%B8%E6%88%8F%E7%8E%8B.png" group-title="影剧频道",游戏王
+https://huyazhibo.de5.net/?id=20985856
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%94%B7%E5%AD%90%E9%AB%98%E4%B8%AD%E7%94%9F%E7%9A%84%E6%97%A5%E5%B8%B8.png" group-title="影剧频道",男子高中生的日常
+https://huyazhibo.de5.net/?id=20985858
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%85%83%E6%B0%94%E5%B0%91%E5%A5%B3%E7%BC%98%E7%BB%93%E7%A5%9E.png" group-title="影剧频道",元气少女缘结神
+https://huyazhibo.de5.net/?id=11352967
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%85%A8%E8%81%8C%E6%B3%95%E5%B8%88.png" group-title="影剧频道",全职法师
+https://huyazhibo.de5.net/?id=26355772
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%B0%B8%E5%85%84.png" group-title="影剧频道",尸兄
+https://huyazhibo.de5.net/?id=26355846
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%A4%A7%E5%A4%B4%E5%84%BF%E5%AD%90%E5%B0%8F%E5%A4%B4%E7%88%B8%E7%88%B8.png" group-title="影剧频道",大头儿子小头爸爸
+https://huyazhibo.de5.net/?id=20969114
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%93%AA%E5%90%92%E4%BC%A0%E5%A5%87.png" group-title="影剧频道",哪吒传奇
+https://huyazhibo.de5.net/?id=26355782
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%BE%99%E6%97%8F.png" group-title="影剧频道",龙族
+https://huyazhibo.de5.net/?id=23865086
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%97%B4%E8%B0%8D%E8%BF%87%E5%AE%B6%E5%AE%B6.png" group-title="影剧频道",间谍过家家
+https://huyazhibo.de5.net/?id=30080149
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%BD%97%E5%B0%8F%E9%BB%91%E6%88%98%E8%AE%B0.png" group-title="影剧频道",罗小黑战记
+https://huyazhibo.de5.net/?id=24314159
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%9C%A3%E6%96%97%E5%A3%AB%E6%98%9F%E7%9F%A2.png" group-title="影剧频道",圣斗士星矢
+https://huyazhibo.de5.net/?id=10396612
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%91%AB%E8%8A%A6%E5%85%84%E5%BC%9F.png" group-title="影剧频道",葫芦兄弟
+https://huyazhibo.de5.net/?id=20985834
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98.png" group-title="影剧频道",咒术回战
+https://huyazhibo.de5.net/?id=21059561
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%8F%8D%E5%8F%9B%E7%9A%84%E9%B2%81%E8%B7%AF%E4%BF%AE.png" group-title="影剧频道",反叛的鲁路修
+https://huyazhibo.de5.net/?id=20969113
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%B6%85%E8%87%AA%E7%84%B6%E6%AD%A6%E8%A3%85%E5%BD%93%E5%93%92%E5%BD%93.png" group-title="影剧频道",超自然武装当哒当
+https://huyazhibo.de5.net/?id=20985850
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%96%B0%E4%B8%96%E7%BA%AA%E7%A6%8F%E9%9F%B3%E6%88%98%E5%A3%AB.png" group-title="影剧频道",新世纪福音战士
+https://huyazhibo.de5.net/?id=20985862
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86.png" group-title="影剧频道",足球小将
+https://huyazhibo.de5.net/?id=25725150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%BD%BB%E7%BE%BD%E9%A3%9E%E6%89%AC.png" group-title="影剧频道",轻羽飞扬
+https://huyazhibo.de5.net/?id=30805998
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%99%AB%E5%B8%88.png" group-title="影剧频道",虫师
+https://huyazhibo.de5.net/?id=21241791
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%AD%94%E7%A5%9E%E8%8B%B1%E9%9B%84%E4%BC%A0.png" group-title="影剧频道",魔神英雄传
+https://huyazhibo.de5.net/?id=21241839
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%8E%A2%E6%A1%88%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="影剧频道",探案剧专区
+https://huyazhibo.de5.net/?id=20969144
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%83%BD%E5%B8%82%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="影剧频道",都市剧专区
+https://huyazhibo.de5.net/?id=29982666
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%88%91%E4%BE%A6%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="影剧频道",刑侦剧专区
+https://huyazhibo.de5.net/?id=20969130
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%AE%B6%E5%BA%AD%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="影剧频道",家庭剧专区
+https://huyazhibo.de5.net/?id=11352872
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%BB%8F%E5%85%B8%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="影剧频道",经典剧专区
+https://huyazhibo.de5.net/?id=11602081
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%80%80%E6%97%A7%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="影剧频道",怀旧剧专区
+https://huyazhibo.de5.net/?id=30080241
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%83%B5%E5%B0%B8%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="影剧频道",僵尸剧专区
+https://huyazhibo.de5.net/?id=23865148
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%8A%97%E6%88%98%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="影剧频道",抗战剧专区
+https://huyazhibo.de5.net/?id=30080238
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%8F%B0%E6%B9%BE%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="影剧频道",台湾剧专区
+https://huyazhibo.de5.net/?id=11342436
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%9F%A9%E5%9B%BD%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="影剧频道",韩国剧专区
+https://huyazhibo.de5.net/?id=23863787
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%BE%8E%E5%9B%BD%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="影剧频道",美国剧专区
+https://huyazhibo.de5.net/?id=30080138
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%8B%B1%E5%9B%BD%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="影剧频道",英国剧专区
+https://huyazhibo.de5.net/?id=29982659
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%A0%A1%E5%9B%AD%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="影剧频道",校园剧专区
+https://huyazhibo.de5.net/?id=30080228
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%B0%8D%E6%88%98%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="影剧频道",谍战剧专区
+https://huyazhibo.de5.net/?id=30080225
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%8F%A4%E8%A3%85%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="影剧频道",古装剧专区
+https://huyazhibo.de5.net/?id=24314158
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%B9%A1%E6%9D%91%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="影剧频道",乡村剧专区
+https://huyazhibo.de5.net/?id=30080255
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%81%B6%E5%83%8F%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="影剧频道",偶像剧专区
+https://huyazhibo.de5.net/?id=11601964
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%88%B1%E6%83%85%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="影剧频道",爱情剧专区
+https://huyazhibo.de5.net/?id=29982671
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%90%9E%E7%AC%91%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="影剧频道",搞笑剧专区
+https://huyazhibo.de5.net/?id=21059634
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%AD%A6%E4%BE%A0%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="影剧频道",武侠剧专区
+https://huyazhibo.de5.net/?id=20985816
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%A9%BF%E8%B6%8A%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="影剧频道",穿越剧专区
+https://huyazhibo.de5.net/?id=26355857
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%B9%B4%E4%BB%A3%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="影剧频道",年代剧专区
+https://huyazhibo.de5.net/?id=20969095
+#EXTINF:-1 tvg-name="冰冰影剧" tvg-id="冰冰影剧" tvg-logo="https://tb.zbds.top/logo/冰冰影剧.png" group-title="影剧频道", 冰冰影剧
 http://www.goodiptv.club/douyu/74374
-#EXTINF:-1 tvg-name="刀刀影院" tvg-id="刀刀影院" tvg-logo="https://tb.zbds.top/logo/刀刀影院.png" group-title="电视剧频道", 刀刀影院
+#EXTINF:-1 tvg-name="刀刀影院" tvg-id="刀刀影院" tvg-logo="https://tb.zbds.top/logo/刀刀影院.png" group-title="影剧频道", 刀刀影院
 http://www.goodiptv.club/douyu/747764
-#EXTINF:-1 tvg-name="华语影视" tvg-id="华语影视" tvg-logo="https://tb.zbds.top/logo/华语影视.png" group-title="电视剧频道", 华语影视
+#EXTINF:-1 tvg-name="华语影视" tvg-id="华语影视" tvg-logo="https://tb.zbds.top/logo/华语影视.png" group-title="影剧频道", 华语影视
 http://www.goodiptv.club/douyu/3928
-#EXTINF:-1 tvg-name="古装武侠" tvg-id="古装武侠" tvg-logo="https://tb.zbds.top/logo/古装武侠.png" group-title="电视剧频道", 古装武侠
+#EXTINF:-1 tvg-name="古装武侠" tvg-id="古装武侠" tvg-logo="https://tb.zbds.top/logo/古装武侠.png" group-title="影剧频道", 古装武侠
 http://www.goodiptv.club/douyu/2793084
-#EXTINF:-1 tvg-name="橙记港剧" tvg-id="橙记港剧" tvg-logo="https://tb.zbds.top/logo/橙记港剧.png" group-title="电视剧频道", 橙记港剧
+#EXTINF:-1 tvg-name="橙记港剧" tvg-id="橙记港剧" tvg-logo="https://tb.zbds.top/logo/橙记港剧.png" group-title="影剧频道", 橙记港剧
 http://www.goodiptv.club/douyu/4549169
-#EXTINF:-1 tvg-name="热门港剧" tvg-id="热门港剧" tvg-logo="https://tb.zbds.top/logo/热门港剧.png" group-title="电视剧频道", 热门港剧
+#EXTINF:-1 tvg-name="热门港剧" tvg-id="热门港剧" tvg-logo="https://tb.zbds.top/logo/热门港剧.png" group-title="影剧频道", 热门港剧
 http://www.goodiptv.club/douyu/5522351
-#EXTINF:-1 tvg-name="邵氏影院" tvg-id="邵氏影院" tvg-logo="https://tb.zbds.top/logo/邵氏影院.png" group-title="电视剧频道", 邵氏影院
+#EXTINF:-1 tvg-name="邵氏影院" tvg-id="邵氏影院" tvg-logo="https://tb.zbds.top/logo/邵氏影院.png" group-title="影剧频道", 邵氏影院
 http://www.goodiptv.club/douyu/4246519
-
-#EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/新三国.png" group-title="电视剧频道",新三国（斗鱼）
+#EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/新三国.png" group-title="影剧频道",新三国（斗鱼）
 https://goodiptv.club/douyu/5908256
-#EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/少年包青天1.png" group-title="电视剧频道",少年包青天第一部
+#EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/少年包青天1.png" group-title="影剧频道",少年包青天第一部
 https://live.ottiptv.cc/yy/1356043677
-#EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/神探狄仁杰2.png" group-title="电视剧频道",神探狄仁杰第二部
+#EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/神探狄仁杰2.png" group-title="影剧频道",神探狄仁杰第二部
 https://goodiptv.club/douyu/6027991
-#EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/少年包青天3.png" group-title="电视剧频道",少年包青天第三部
+#EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/少年包青天3.png" group-title="影剧频道",少年包青天第三部
 https://live.ottiptv.cc/yy/1382736814
-#EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/伪装者.png" group-title="电视剧频道",伪装者
+#EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/伪装者.png" group-title="影剧频道",伪装者
 https://live.ottiptv.cc/yy/1354936244
-#EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/西游记后传.png" group-title="电视剧频道",西游记后传
+#EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/西游记后传.png" group-title="影剧频道",西游记后传
 https://live.ottiptv.cc/yy/1353392400
-#EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/隋唐英雄传.png" group-title="电视剧频道",隋唐英雄传
+#EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/隋唐英雄传.png" group-title="影剧频道",隋唐英雄传
 https://live.ottiptv.cc/yy/1352475619
-#EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/仙剑奇侠传.png" group-title="电视剧频道",仙剑奇侠传
+#EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/仙剑奇侠传.png" group-title="影剧频道",仙剑奇侠传
 https://live.ottiptv.cc/yy/1382749903
-#EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/新白娘子传奇.png" group-title="电视剧频道", 新白娘子传奇
+#EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/新白娘子传奇.png" group-title="影剧频道", 新白娘子传奇
 https://live.ottiptv.cc/yy/1354490667
-#http://luobo.bkpcp.top/yy/1354490667
-#EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/电视剧.png" group-title="电视剧频道",知否知否
+#EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/电视剧.png" group-title="影剧频道",知否知否
 https://live.ottiptv.cc/yy/21881901
-#EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/电视剧.png" group-title="电视剧频道",父母爱情
+#EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/电视剧.png" group-title="影剧频道",父母爱情
 https://live.ottiptv.cc/yy/1354926650
-#EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/电视剧.png" group-title="电视剧频道",欢乐颂
+#EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/电视剧.png" group-title="影剧频道",欢乐颂
 https://live.ottiptv.cc/yy/1382735624
-#EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/埋堆堆.png" group-title="电视剧频道",天龙八部
+#EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/埋堆堆.png" group-title="影剧频道",天龙八部
 https://live.ottiptv.cc/yy/1351814644
-#EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/埋堆堆.png" group-title="电视剧频道",谈判专家
+#EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/埋堆堆.png" group-title="影剧频道",谈判专家
 https://live.ottiptv.cc/yy/1382735560
 
 #春晚
