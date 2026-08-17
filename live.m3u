@@ -9,17 +9,11 @@ https://cdn3.indevs.in/stream/tvb/fct/
 http://119.233.255.62:1234/608780988
 
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://tb.zbds.top/logo/凤凰中文台.png" group-title="常看频道",凤凰中文
-https://cdn6.cc.cd/163189/fhzw
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://tb.zbds.top/logo/凤凰中文台.png" group-title="常看频道",凤凰中文
 http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://tb.zbds.top/logo/凤凰资讯.png" group-title="常看频道",凤凰资讯
-https://cdn6.cc.cd/163189/fhzx
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://tb.zbds.top/logo/凤凰资讯.png" group-title="常看频道",凤凰资讯
 http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://tb.zbds.top/logo/凤凰香港.png" group-title="常看频道",凤凰香港
-https://cdn6.cc.cd/163189/fhhk
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://tb.zbds.top/logo/凤凰香港.png" group-title="常看频道",凤凰香港
 http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
 
