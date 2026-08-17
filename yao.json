@@ -1,6 +1,5 @@
 {
-  "spider": "https://raw.githubusercontent.com/Basic-yao/TVBox/refs/heads/main/bd630429a515df48ad3573ea1d4e7426.jar;md5;80286bf6d6ffbadfb4559f098e2847ce",
-
+  "spider": "https://raw.githubusercontent.com/Basic-yao/TVBox/refs/heads/main/74fba161c98f4feda0cc4504da953596.jar;md5;c4ce8d61764f37c8f35b765bc77b4559",
   "sites": [
       {
       "key": "NewDouBan",
@@ -15,7 +14,7 @@
     },
 	{
       "key": "Doubana",
-      "name": "🐮【更新日期:20260717】🐮",
+      "name": "🐮【更新日期:20260814】🐮",
       "type": 3,
       "api": "csp_NewDouBanGuard",
 	  "indexs":1,
@@ -29,6 +28,7 @@
       "name": "⬇️【网盘类先扫码】⬇️",
       "type": 3,
       "api": "csp_NewDouBanGuard",
+	  "indexs":1,
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -42,69 +42,6 @@
       "searchable": 0,
       "changeable": 0,
       "indexs": 0,
-      "style": {
-        "type": "list"
-      }
-    },
-	{
-      "key": "SportFeiQiu",
-      "name": "🌐飞球┃体育🌐",
-      "type": 3,
-      "api": "csp_SportFeiQiuGuard",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      }
-    },
-	{
-      "key": "SportGuaZi",
-      "name": "🌐瓜子┃体育🌐",
-      "type": 3,
-      "api": "csp_SportGuaZiGuard",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      }
-    },
-	{
-      "key": "SportKanQiuTong",
-      "name": "🌐球通┃体育🌐",
-      "type": 3,
-      "api": "csp_SportKanQiuTongGuard",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      }
-    },	
-    {
-      "key": "SportKanqiu",
-      "name": "🌐八八┃体育🌐",
-      "type": 3,
-      "api": "csp_SportKanqiuGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "SportKaFei",
-      "name": "🌐咖啡┃体育🌐",
-      "type": 3,
-      "api": "csp_SportKaFeiGuard",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "SportWwe",
-      "name": "🌐WWE┃体育🌐",
-      "type": 3,
-      "api": "csp_SportWweGuard",
-      "searchable": 1,
-      "changeable": 0,
       "style": {
         "type": "list"
       }
@@ -720,7 +657,69 @@
         "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/345A587_773_gaozhong_20250828171449997newMediaImage.txt"
       }
     },
-
+	{
+      "key": "SportFeiQiu",
+      "name": "🌐飞球┃体育🌐",
+      "type": 3,
+      "api": "csp_SportFeiQiuGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+	{
+      "key": "SportGuaZi",
+      "name": "🌐瓜子┃体育🌐",
+      "type": 3,
+      "api": "csp_SportGuaZiGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+	{
+      "key": "SportKanQiuTong",
+      "name": "🌐球通┃体育🌐",
+      "type": 3,
+      "api": "csp_SportKanQiuTongGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },	
+    {
+      "key": "SportKanqiu",
+      "name": "🌐八八┃体育🌐",
+      "type": 3,
+      "api": "csp_SportKanqiuGuard",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "SportKaFei",
+      "name": "🌐咖啡┃体育🌐",
+      "type": 3,
+      "api": "csp_SportKaFeiGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "SportWwe",
+      "name": "🌐WWE┃体育🌐",
+      "type": 3,
+      "api": "csp_SportWweGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
     {
       "key": "emby",
       "name": "🀄️emby┃4K🀄️",
@@ -1039,19 +1038,23 @@
       ]
     }
   ],
-
+  "ads": [
+    "mozai.4gtv.tv",
+    "pv.vipwm.cc",
+	"static-mozai.4gtv.tv"
+  ],
   "lives": [
     {
         "name": "Kimentanm",
         "type": 0,
         "url": "https://raw.githubusercontent.com/Basic-yao/TVBox/refs/heads/main/live.m3u",
-        "playerType": 1
+        "playerType": 2
     },
     {
       "name": "综合直播",
       "type": 0,
       "playerType": 2,
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "url": "http://193.123.86.190:14888/TV/iptv.php",
       "ua": "bingcha/1.1 (mianfeifenxiang) "
     }
   ],
