@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.githubusercontent.com/Basic-yao/TVBox/refs/heads/main/74fba161c98f4feda0cc4504da953596.jar;md5;c4ce8d61764f37c8f35b765bc77b4559",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/Basic-yao/TVBox/refs/heads/main/74fba161c98f4feda0cc4504da953596.jar;md5;c4ce8d61764f37c8f35b765bc77b4559",
   "sites": [
       {
       "key": "NewDouBan",
@@ -10,7 +10,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/Basic-yao/TVBox/refs/heads/main/20260414181247-ae51abfbfe.txt"
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/Basic-yao/TVBox/refs/heads/main/20260414181247-ae51abfbfe.txt"
     },
 	{
       "key": "Doubana",
@@ -21,7 +21,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/Basic-yao/TVBox/refs/heads/main/20260414181247-ae51abfbfe.txt"
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/Basic-yao/TVBox/refs/heads/main/20260414181247-ae51abfbfe.txt"
     },
     {
       "key": "Doubana",
@@ -32,7 +32,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/Basic-yao/TVBox/refs/heads/main/20260414181247-ae51abfbfe.txt"
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/Basic-yao/TVBox/refs/heads/main/20260414181247-ae51abfbfe.txt"
     },
     {
       "key": "Wexconfig",
@@ -1038,16 +1038,11 @@
       ]
     }
   ],
-  "ads": [
-    "mozai.4gtv.tv",
-    "pv.vipwm.cc",
-	"static-mozai.4gtv.tv"
-  ],
   "lives": [
     {
         "name": "Kimentanm",
         "type": 0,
-        "url": "https://raw.githubusercontent.com/Basic-yao/TVBox/refs/heads/main/live.m3u",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Basic-yao/TVBox/refs/heads/main/live.m3u",
         "playerType": 1
     },
     {
