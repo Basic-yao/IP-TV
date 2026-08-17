@@ -1048,7 +1048,7 @@
         "name": "Kimentanm",
         "type": 0,
         "url": "https://raw.githubusercontent.com/Basic-yao/TVBox/refs/heads/main/live.m3u",
-        "playerType": 2
+        "playerType": 1
     },
     {
       "name": "综合直播",
