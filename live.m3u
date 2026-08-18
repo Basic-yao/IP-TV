@@ -3,6 +3,8 @@
 
 #常看频道
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://tb.zbds.top/logo/翡翠台.png" group-title="常看频道",翡翠台
+https://cdn3.indevs.in/stream/live/jade/
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://tb.zbds.top/logo/翡翠台.png" group-title="常看频道",翡翠台
 https://cdn3.indevs.in/stream/tvb/fct/
 
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://tb.zbds.top/logo/第一财经.png" group-title="常看频道",第一财经
