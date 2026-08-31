@@ -558,85 +558,9 @@ http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
 #EXTINF:-1 tvg-name="南国都市" tvg-logo="https://tb.zbds.top/logo/南国都市.png" group-title="粤港澳台",南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 
-# ===== 广东IPTV内网源（仅限广东电信内网） =====
-# —— 广东体育（13 条源，需内网）
-# ⚠️ 内网组播RTP，仅限本地网络
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="粤港澳台",广东体育
-http://120.234.187.66:10086/rtp/239.10.0.113:1025
-# ⚠️ 内网组播RTP，仅限本地网络
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="粤港澳台",广东体育
-http://120.234.187.66:10086/rtp/239.10.0.124:1025
-# ⚠️ 内网组播RTP，仅限本地网络
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="粤港澳台",广东体育
-http://120.234.187.66:10086/rtp/239.10.0.47:1025
-# ⚠️ 内网组播RTP，仅限本地网络
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="粤港澳台",广东体育
-http://120.234.187.66:10086/rtp/239.20.0.103:2004
-# ⚠️ 内网组播RTP，仅限本地网络
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="粤港澳台",广东体育
-http://120.234.187.66:10086/rtp/239.20.0.114:2026
-# ⚠️ 内网组播RTP，仅限本地网络
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="粤港澳台",广东体育
-http://120.234.187.66:10086/rtp/239.20.0.97:3012
-# ⚠️ 内网组播RTP，仅限本地网络
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="粤港澳台",广东体育
-http://gzgxzm.dpdns.org:10086/rtp/239.10.0.113:1025
-# ⚠️ 内网组播RTP，仅限本地网络
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="粤港澳台",广东体育
-http://gzgxzm.dpdns.org:10086/rtp/239.10.0.124:1025
-# ⚠️ 内网组播RTP，仅限本地网络
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="粤港澳台",广东体育
-http://gzgxzm.dpdns.org:10086/rtp/239.10.0.47:1025
-# ⚠️ 内网组播RTP，仅限本地网络
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="粤港澳台",广东体育
-http://gzgxzm.dpdns.org:10086/rtp/239.20.0.103:2004
-# ⚠️ 内网组播RTP，仅限本地网络
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="粤港澳台",广东体育
-http://gzgxzm.dpdns.org:10086/rtp/239.20.0.114:2026
-# ⚠️ 内网组播RTP，仅限本地网络
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="粤港澳台",广东体育
-http://gzgxzm.dpdns.org:10086/rtp/239.20.0.97:3012
-# ⚠️ 内网组播RTP，仅限本地网络
 #EXTINF:-1 tvg-name="Guangdong5" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong5.png" group-title="粤港澳台",广东体育
 https://2.fast.hidns.vip/163189/gdty
-# —— 广东珠江（13 条源，需内网）
-# ⚠️ 内网组播RTP，仅限本地网络
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="粤港澳台",广东珠江
-http://120.234.187.66:10086/rtp/239.10.0.121:1025
-# ⚠️ 内网组播RTP，仅限本地网络
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="粤港澳台",广东珠江
-http://120.234.187.66:10086/rtp/239.10.0.62:1025
-# ⚠️ 内网组播RTP，仅限本地网络
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="粤港澳台",广东珠江
-http://120.234.187.66:10086/rtp/239.10.0.63:1025
-# ⚠️ 内网组播RTP，仅限本地网络
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="粤港澳台",广东珠江
-http://120.234.187.66:10086/rtp/239.20.0.111:2020
-# ⚠️ 内网组播RTP，仅限本地网络
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="粤港澳台",广东珠江
-http://120.234.187.66:10086/rtp/239.20.0.63:3148
-# ⚠️ 内网组播RTP，仅限本地网络
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="粤港澳台",广东珠江
-http://120.234.187.66:10086/rtp/239.20.0.64:3144
-# ⚠️ 内网组播RTP，仅限本地网络
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="粤港澳台",广东珠江
-http://gzgxzm.dpdns.org:10086/rtp/239.10.0.121:1025
-# ⚠️ 内网组播RTP，仅限本地网络
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="粤港澳台",广东珠江
-http://gzgxzm.dpdns.org:10086/rtp/239.10.0.62:1025
-# ⚠️ 内网组播RTP，仅限本地网络
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="粤港澳台",广东珠江
-http://gzgxzm.dpdns.org:10086/rtp/239.10.0.63:1025
-# ⚠️ 内网组播RTP，仅限本地网络
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="粤港澳台",广东珠江
-http://gzgxzm.dpdns.org:10086/rtp/239.20.0.111:2020
-# ⚠️ 内网组播RTP，仅限本地网络
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="粤港澳台",广东珠江
-http://gzgxzm.dpdns.org:10086/rtp/239.20.0.63:3148
-# ⚠️ 内网组播RTP，仅限本地网络
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="粤港澳台",广东珠江
-http://gzgxzm.dpdns.org:10086/rtp/239.20.0.64:3144
-# ⚠️ 内网组播RTP，仅限本地网络
+
 #EXTINF:-1 tvg-name="Guangdong9" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong9.png" group-title="粤港澳台",广东珠江
 https://2.fast.hidns.vip/163189/gdzj
 # —— 广东影视（8 条源，需内网）
